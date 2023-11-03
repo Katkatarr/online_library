@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "113150692528",
+    "project_id": "alta-book",
+    "storage_bucket": "alta-book.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113150692528:android:f3ee3b71be34b86ff2ff75",
+        "android_client_info": {
+          "package_name": "com.example.olib"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCww8lr6TGTQZRTB1Ge8kH6sajuOig-u3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

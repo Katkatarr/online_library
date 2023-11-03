@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "judul": "Bumi",
+    "kategori": "Fiksi",
+    "author": "Tere Liye",
+    "isbn": "978-1234567890",
+    "deskripsi": "Sebuah kisah epik tentang petualangan di Bumi.",
+    "cover": "assets/images/bumi.jpg"
+  },
+  {
+    "id": 2,
+    "judul": "Laskar Pelangi",
+    "kategori": "Fiksi",
+    "author": "Andrea Hirata",
+    "isbn": "978-0987654321",
+    "deskripsi": "Cerita tentang perjuangan sekelompok anak di Belitong.",
+    "cover": "assets/images/bumi.jpg"
+  },
+  {
+    "id": 3,
+    "judul": "Kambing Jantan",
+    "kategori": "Non-Fiksi",
+    "author": "Raditya Dika",
+    "isbn": "978-5678901234",
+    "deskripsi": "Kisah lucu sehari-hari seorang penulis muda.",
+    "cover": "assets/images/bumi.jpg"
+  },
+  {
+    "id": 4,
+    "judul": "Buru Quartet: Bumi Manusia",
+    "kategori": "Fiksi",
+    "author": "Pramoedya Ananta Toer",
+    "isbn": "978-9876543210",
+    "deskripsi": "Cerita epik tentang perjuangan dan keadilan di Indonesia.",
+    "cover": "assets/images/bumi.jpg"
+  },
+  {
+    "id": 5,
+    "judul": "Rindu",
+    "kategori": "Fiksi",
+    "author": "Tere Liye",
+    "isbn": "978-5432109876",
+    "deskripsi": "Kisah cinta yang melibatkan dua dunia berbeda.",
+    "cover": "assets/images/bumi.jpg"
+  },
+  {
+    "id": 6,
+    "judul": "Sang Pemimpi",
+    "kategori": "Fiksi",
+    "author": "Andrea Hirata",
+    "isbn": "978-1357924680",
+    "deskripsi": "Kelanjutan kisah Laskar Pelangi.",
+    "cover": "assets/images/bumi.jpg"
+  },
+  {
+    "id": 7,
+    "judul": "Marmut Merah Jambu",
+    "kategori": "Non-Fiksi",
+    "author": "Raditya Dika",
+    "isbn": "978-1122334455",
+    "deskripsi": "Kumpulan kisah humor dan pengalaman pribadi.",
+    "cover": "assets/images/bumi.jpg"
+  },
+  {
+    "id": 8,
+    "judul": "Buru Quartet: Anak Semua Bangsa",
+    "kategori": "Fiksi",
+    "author": "Pramoedya Ananta Toer",
+    "isbn": "978-8765432109",
+    "deskripsi": "Kelanjutan cerita Bumi Manusia.",
+    "cover": "assets/images/bumi.jpg"
+  },
+  {
+    "id": 9,
+    "judul": "Hafalan Shalat Delisa",
+    "kategori": "Fiksi",
+    "author": "Tere Liye",
+    "isbn": "978-9999999999",
+    "deskripsi": "Kisah perempuan Aceh yang menyelamatkan agamanya.",
+    "cover": "assets/images/bumi.jpg"
+  },
+  {
+    "id": 10,
+    "judul": "Maryamah Karpov",
+    "kategori": "Fiksi",
+    "author": "Andrea Hirata",
+    "isbn": "978-4444444444",
+    "deskripsi": "Kisah petualangan di Moskow.",
+    "cover": "assets/images/bumi.jpg"
+  },
+  {
+    "id": 11,
+    "judul": "Malaikat dan Iblis",
+    "kategori": "Fiksi",
+    "author": "Tere Liye",
+    "isbn": "978-6666666666",
+    "deskripsi": "Kisah tentang kebaikan dan kejahatan.",
+    "cover": "assets/images/bumi.jpg"
+  },
+  {
+    "id": 12,
+    "judul": "Cinta Brontosaurus",
+    "kategori": "Non-Fiksi",
+    "author": "Raditya Dika",
+    "isbn": "978-7777777777",
+    "deskripsi": "Kisah humor dalam perjalanan cinta.",
+    "cover": "assets/images/bumi.jpg"
+  }
+]
